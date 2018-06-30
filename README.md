@@ -1,4 +1,5 @@
-### Using Tinkercad For Circuits
+# Automated Carwash System
+### Using Tinkercad Simulator For Arduino Circuits
 #### *Part of Indo-Spanish Project by NSIT(India) and URJC(Spain)*
 
 ## Abstract
